@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Pedro Ballastreri
 
 
-- 🔭 Atualmente sou estagiário em desenvolvimento de softwares (full-stack) e estou cursando Analise e Desenvolvimento de Sistemas 
-- 🌱 Conhecimentos Java, Python, Selenium, Spring Boot, JavaScript e React.
+- 🔭 Atualmente trabalho com desenvolvimento de softwares (full-stack) e sou formado em Analise e Desenvolvimento de Sistemas. 
+- 🌱 Conhecimentos em Java 8+, Python 3, Selenium, JUnit 5, Spring Framework(Spring Web, Spring Batch), React JS, MySQL e Docker.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
